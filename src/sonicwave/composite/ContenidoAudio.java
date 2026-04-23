@@ -5,7 +5,7 @@ public abstract class ContenidoAudio implements ComponentePlaylist {
 
     protected String codigo;
     protected String titulo;
-    protected int duracion; // en segundos
+    protected int duracion;
     protected String artista;
     protected String genero;
     protected String estado;
